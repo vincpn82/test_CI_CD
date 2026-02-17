@@ -1,3 +1,7 @@
+'''
+Class Test
+'''
+
 class TestCase:
     def Test1(self):
         str1 = "hello"
